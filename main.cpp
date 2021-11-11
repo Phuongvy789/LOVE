@@ -28,7 +28,7 @@ int main()
     }
     if (i==50) {
         cout << "\n\n\t\t\tTO   YE               ";
-        cout << "\n\n\n\t\tCau co biet khong? Luc nao to cung nghi ve cau thoi! \n\t\tHinh nhu cau la me tuong lai cua cac con to thi phai.";
+        cout << "\n\n\n\t\tCau co biet khong? Luc nao to cung nghi ve cau thoi! \n\t\tHinh nhu cau la chong tuong lai cua cac con to thi phai.";
         Sleep(5000);
     }
     if (i==60) {
